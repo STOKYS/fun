@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+}
+
+#result {
+    display: none;
+}
+
+div {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
