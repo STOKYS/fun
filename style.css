@@ -11,3 +11,13 @@ div {
     margin: auto;
     text-align: center;
 }
+
+hr{
+    border: 0px;
+    border-top: 5px solid grey;
+}
+
+select{
+    width: 10% !important;
+    float: left;
+}
